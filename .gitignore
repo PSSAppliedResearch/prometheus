@@ -1,1 +1,4 @@
 .vscode/launch.json
+docker-compose.override.yml
+prom.tar*
+.DS_Store
